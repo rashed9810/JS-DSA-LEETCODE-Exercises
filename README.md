@@ -55,4 +55,4 @@ To embark on this coding adventure, follow these simple steps:
 1. **Clone the repository**
 
 ```sh
-git clone https://github.com/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises.git
+git clone https://github.com/rashed9810/JS-DSA-LEETCODE-Exercises.git
